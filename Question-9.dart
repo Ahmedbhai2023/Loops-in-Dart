@@ -1,15 +1,6 @@
 // Write a program that takes a list of student details as input, whereeach
 // student is represented by a map containing their name, marks,
 
-// 9.
-
-// 10.
-
-// 11.
-
-// 12.
-
-// 13.
 
 // 14.
 // section, and roll number. The program should determine the grade of
